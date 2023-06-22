@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Side projects
+title: side projects
 permalink: /projects/
 description: Projects that I do on the side
 nav: true
