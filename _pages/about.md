@@ -6,7 +6,7 @@ subtitle: <a href='#'>Fulltime Translator</a>. Singosari, Malang, East Java. nda
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG20221220183323.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Perum Banjararum Asri, Singosari</p>
