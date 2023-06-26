@@ -20,4 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 A competent translator in website and game localization, and an enthusiast on other translation subjects. Interested in many things: game, teaching, digital marketing, and programming, as well as gardening on the side.
 
-If you can read my compiled some of my post about what I do in <a href='#'>blog</a> page, and go to my <a href='#'>projects</a> page for my side project that I do when feeling bored, including this very site.
+If you like, you can read my compiled some of my post about what I do in <a href='#'>blog</a> page, or go to my <a href='#'>projects</a> page for my side project that I do when feeling bored, including this very site.
