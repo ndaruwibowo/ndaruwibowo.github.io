@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ndaruwibowo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ndaruwibowo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-04T04:24:37+00:00</updated><id>https://ndaruwibowo.github.io/feed.xml</id><title type="html">Ndaru, the bored translator</title><subtitle>Simple web for notes and nitpicks from the bored translator.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ndaruwibowo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ndaruwibowo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-04T04:42:26+00:00</updated><id>https://ndaruwibowo.github.io/feed.xml</id><title type="html">Ndaru, the bored translator</title><subtitle>Simple web for notes and nitpicks from the bored translator.
 </subtitle><entry><title type="html">Translator Helper Guide</title><link href="https://ndaruwibowo.github.io/blog/2023/translator-helper-help/" rel="alternate" type="text/html" title="Translator Helper Guide" /><published>2023-12-04T00:00:00+00:00</published><updated>2023-12-04T00:00:00+00:00</updated><id>https://ndaruwibowo.github.io/blog/2023/translator-helper-help</id><content type="html" xml:base="https://ndaruwibowo.github.io/blog/2023/translator-helper-help/"><![CDATA[<blockquote>
   <h1 id="translator-helper">Translator Helper</h1>
 </blockquote>
@@ -16,12 +16,12 @@
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Pengguna cukup Otomatis aktif jika ada typo/kata kasar yang terdeteksi.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> Misal, saat mengetik <em>anda menjadi Anda, tai menjadi tadi</em>.</p>
+  <p>Pengguna cukup mengaktifkan aplikasi dan mengetik seperti biasa. Aplikasi akan otomatis mengoreksi jika ada typo/kata kasar yang terdeteksi.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> Misal, saat mengetik <em>anda menjadi Anda, tai menjadi tadi</em>.</p>
 </blockquote>
 
 <h3 id="keyrepeater">KeyRepeater</h3>
 
-<p>Tidak perlu menekan kombinasi keyboard berulang kali. <em>No more carpal tunnel syndrome!</em></p>
+<p>Tidak perlu menekan kombinasi keyboard berulang kali karena ada bantuan KeyRepeater. <em>No more carpal tunnel syndrome!</em></p>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
@@ -33,12 +33,12 @@
 
 <h3 id="obfuscatingmasking-origin-untuk-trados-studio">Obfuscating/masking origin untuk Trados Studio</h3>
 
-<p>Menghilangkan informasi origin di Trados Studio.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> <strong>USE AT YOUR OWN RISK</strong>.</p>
+<p>Menghilangkan informasi origin di Trados Studio, IYKYK.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> <strong>USE AT YOUR OWN RISK</strong>.</p>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Tekan Ctrl + Space. Disarankan untuk tidak menekan apa pun saat prosesnya berlangsung</p>
+  <p>Tekan <strong>Ctrl + Space</strong>. Disarankan untuk tidak menekan apa pun saat prosesnya berlangsung</p>
 </blockquote>
 
 <blockquote>
@@ -50,15 +50,15 @@
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Tekan tombol ? jika ada di tiap UI fiturnya.</p>
+  <p>Tekan tombol <strong>?</strong> jika ada di tiap UI fiturnya.</p>
 </blockquote>
 
-<h3 id="new-autocorrect-suggestions-untuk-menambah-jumlah-database-autocorrect">New autocorrect suggestions untuk menambah jumlah database autocorrect</h3>
+<h3 id="new-autocorrect-suggestions-jika-berkontribusi-terhadap-database-autocorrect-translator-helper">New autocorrect suggestions jika berkontribusi terhadap database autocorrect Translator Helper</h3>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Tekan Win + Q. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar. Perlu koneksi internet. Jika pengiriman berhasil, akan ada notifikasi di atas taskbar.</p>
+  <p>Tekan <strong>Win + Q</strong>. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar. Perlu koneksi internet. Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman berhasil atau tidak.</p>
 </blockquote>
 
 <h3 id="pengecekan-versi-di-about">Pengecekan versi di About</h3>
@@ -66,7 +66,7 @@
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Di kiri bawah, klik kanan dan pilih About. Tekan tombol “Check” di bawah <em>Translator Helper version X.X.X</em>.</p>
+  <p>Di kiri bawah, klik kanan dan pilih <strong>About</strong>. Tekan tombol <strong>Check</strong> di bawah <em>Translator Helper version X.X.X</em>.</p>
 </blockquote>
 
 <h3 id="menambahkan-fitur-suspend-untuk-menghentikan-semua-autocorrection-jika-diperlukan">Menambahkan fitur Suspend untuk menghentikan semua autocorrection jika diperlukan</h3>
@@ -74,7 +74,7 @@
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Di ikon tray Translator Helper, klik kanan lalu pilih <strong>Suspend</strong> untuk menjeda semua autocorrection dan tekan <strong>Unsuspend</strong> untuk membatalkan jeda. Icon akan berubah menjadi <strong>S</strong> dengan warna hijau. (Patch berikutnya akan menghilangkan ini agar tidak membingungkan pengguna)</p>
+  <p>Di ikon tray Translator Helper, klik kanan lalu pilih <strong>Suspend</strong> untuk menjeda semua autocorrection dan tekan <strong>Unsuspend</strong> untuk membatalkan jeda. Icon akan berubah menjadi <strong>S</strong> dengan warna hijau.</p>
 </blockquote>
 
 <ul>
@@ -95,11 +95,11 @@
 
 <ul>
   <li>
-    <p>Pw based login (current version):
+    <p>Pw-based login (current version):
 Pengguna memasukkan sandi agar bisa menggunakan aplikasi.</p>
   </li>
   <li>
-    <p>License based (next major version)</p>
+    <p>License-based (next major version)</p>
   </li>
 </ul>
 
