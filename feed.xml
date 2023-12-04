@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ndaruwibowo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ndaruwibowo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-04T04:18:31+00:00</updated><id>https://ndaruwibowo.github.io/feed.xml</id><title type="html">Ndaru, the bored translator</title><subtitle>Simple web for notes and nitpicks from the bored translator.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ndaruwibowo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ndaruwibowo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-04T04:24:37+00:00</updated><id>https://ndaruwibowo.github.io/feed.xml</id><title type="html">Ndaru, the bored translator</title><subtitle>Simple web for notes and nitpicks from the bored translator.
 </subtitle><entry><title type="html">Translator Helper Guide</title><link href="https://ndaruwibowo.github.io/blog/2023/translator-helper-help/" rel="alternate" type="text/html" title="Translator Helper Guide" /><published>2023-12-04T00:00:00+00:00</published><updated>2023-12-04T00:00:00+00:00</updated><id>https://ndaruwibowo.github.io/blog/2023/translator-helper-help</id><content type="html" xml:base="https://ndaruwibowo.github.io/blog/2023/translator-helper-help/"><![CDATA[<blockquote>
   <h1 id="translator-helper">Translator Helper</h1>
 </blockquote>
@@ -9,9 +9,7 @@
   <h2 id="fitur-utama">Fitur utama</h2>
 </blockquote>
 
-<blockquote>
-  <h3 id="autocorrection">Autocorrection</h3>
-</blockquote>
+<h3 id="autocorrection">Autocorrection</h3>
 
 <p>Otomatis mengoreksi kesalahan eja/kata kasar. Akan ada pemberitahuan di kiri bawah desktop bertuliskan “Translator Helper have just saved you from a typo”.</p>
 
@@ -21,9 +19,7 @@
   <p>Pengguna cukup Otomatis aktif jika ada typo/kata kasar yang terdeteksi.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> Misal, saat mengetik <em>anda menjadi Anda, tai menjadi tadi</em>.</p>
 </blockquote>
 
-<blockquote>
-  <h3 id="keyrepeater">KeyRepeater</h3>
-</blockquote>
+<h3 id="keyrepeater">KeyRepeater</h3>
 
 <p>Tidak perlu menekan kombinasi keyboard berulang kali. <em>No more carpal tunnel syndrome!</em></p>
 
@@ -35,9 +31,7 @@
 
 <p><strong>Cheatsheet:</strong> menyusul</p>
 
-<blockquote>
-  <h3 id="obfuscatingmasking-origin-untuk-trados-studio">Obfuscating/masking origin untuk Trados Studio</h3>
-</blockquote>
+<h3 id="obfuscatingmasking-origin-untuk-trados-studio">Obfuscating/masking origin untuk Trados Studio</h3>
 
 <p>Menghilangkan informasi origin di Trados Studio.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> <strong>USE AT YOUR OWN RISK</strong>.</p>
 
@@ -51,9 +45,7 @@
   <h2 id="fitur-bantuanmasukan">Fitur bantuan/masukan:</h2>
 </blockquote>
 
-<blockquote>
-  <h3 id="on-screen-helpsnotices-untuk-fitur-1-and-2">On-screen helps/notices untuk fitur 1 and 2</h3>
-</blockquote>
+<h3 id="on-screen-helpsnotices-untuk-fitur-1-and-2">On-screen helps/notices untuk fitur 1 and 2</h3>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
@@ -61,9 +53,7 @@
   <p>Tekan tombol ? jika ada di tiap UI fiturnya.</p>
 </blockquote>
 
-<blockquote>
-  <h3 id="new-autocorrect-suggestions-untuk-menambah-jumlah-database-autocorrect">New autocorrect suggestions untuk menambah jumlah database autocorrect</h3>
-</blockquote>
+<h3 id="new-autocorrect-suggestions-untuk-menambah-jumlah-database-autocorrect">New autocorrect suggestions untuk menambah jumlah database autocorrect</h3>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
@@ -71,9 +61,7 @@
   <p>Tekan Win + Q. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar. Perlu koneksi internet. Jika pengiriman berhasil, akan ada notifikasi di atas taskbar.</p>
 </blockquote>
 
-<blockquote>
-  <h3 id="pengecekan-versi-di-about">Pengecekan versi di About</h3>
-</blockquote>
+<h3 id="pengecekan-versi-di-about">Pengecekan versi di About</h3>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
@@ -81,9 +69,7 @@
   <p>Di kiri bawah, klik kanan dan pilih About. Tekan tombol “Check” di bawah <em>Translator Helper version X.X.X</em>.</p>
 </blockquote>
 
-<blockquote>
-  <h3 id="menambahkan-fitur-suspend-untuk-menghentikan-semua-autocorrection-jika-diperlukan">Menambahkan fitur Suspend untuk menghentikan semua autocorrection jika diperlukan</h3>
-</blockquote>
+<h3 id="menambahkan-fitur-suspend-untuk-menghentikan-semua-autocorrection-jika-diperlukan">Menambahkan fitur Suspend untuk menghentikan semua autocorrection jika diperlukan</h3>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
@@ -96,7 +82,7 @@
 </ul>
 
 <blockquote>
-  <h2 id="fitur-statistik-dan-logging">Fitur statistik dan logging:</h2>
+  <h2 id="fitur-statistik-dan-logging">Fitur statistik dan logging</h2>
 </blockquote>
 
 <ul>
@@ -104,7 +90,7 @@
 </ul>
 
 <blockquote>
-  <h2 id="fitur-keamanan">Fitur keamanan:</h2>
+  <h2 id="fitur-keamanan">Fitur keamanan</h2>
 </blockquote>
 
 <ul>
