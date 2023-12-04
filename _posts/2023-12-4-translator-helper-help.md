@@ -7,17 +7,22 @@ categories: Guide
 giscus_comments: false
 related_posts: true
 ---
-Translator Helper adalah passion project saya terhadap dunia penerjemahan. Aplikasi ini akan otomatis 
+Translator Helper adalah passion project saya terhadap dunia penerjemahan.
+Aplikasi ini akan membantu meringankan beberapa pekerjaan penerjemah.
+
 
 > ## Fitur utama
 
 ### Autocorrection
 ---
-Otomatis mengoreksi kesalahan eja/kata kasar. Akan ada pemberitahuan di kiri bawah desktop bertuliskan "Translator Helper have just saved you from a typo".
+Otomatis mengoreksi kesalahan eja/kata kasar.
+Akan ada pemberitahuan di kiri bawah desktop bertuliskan "Translator Helper have just saved you from a typo".
 
 > Tip:
 > 
-> Pengguna cukup mengaktifkan aplikasi dan mengetik seperti biasa. Aplikasi akan otomatis mengoreksi jika ada typo/kata kasar yang terdeteksi.[^1] Misal, saat mengetik *anda menjadi Anda, tai menjadi tadi*.
+> Pengguna cukup mengaktifkan aplikasi dan mengetik seperti biasa.
+> Aplikasi akan otomatis mengoreksi jika ada typo/kata kasar yang terdeteksi.[^1]
+> Misal, saat mengetik *anda menjadi Anda, tai menjadi tadi*.
 {: .block-tip }
 
 ### KeyRepeater
@@ -26,7 +31,8 @@ Tidak perlu menekan kombinasi keyboard berulang kali karena ada bantuan KeyRepea
 
 > Tip:
 > 
-> Klik kiri di ikon Translator Helper di taskbar, lalu pilih agar KeyRepeater. Setelah itu, masukkan kombinasi kata/keyboard yang diinginkan.
+> Klik kiri di ikon Translator Helper di taskbar, lalu pilih agar KeyRepeater.
+> Setelah itu, masukkan kombinasi kata/keyboard yang diinginkan.
 {: .block-tip }
 
 **Cheatsheet:** menyusul
@@ -37,7 +43,8 @@ Menghilangkan informasi origin di Trados Studio, IYKYK.[^2] **USE AT YOUR OWN RI
 
 > Tip:
 > 
-> Tekan **Ctrl + Space**. Disarankan untuk tidak menekan apa pun saat prosesnya berlangsung
+> Tekan **Ctrl + Space**.
+> **Sangat disarankan** untuk tidak menekan apa pun saat prosesnya berlangsung
 {: .block-tip }  
 
 > ## Fitur bantuan/masukan:
@@ -53,36 +60,45 @@ Tombol bantuan yang tersedia di berbagai UI Translator Helper.
 
 ### New typo submission jika berkontribusi terhadap database autocorrect Translator Helper
 ---
-Kesal dengan belum otomatis diperbaiki oleh Translator Helper? Sarankan typo kata dan ejaan kata Anda melalui menu tray **New Entries** atau shortcutnya tersedia. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar.
+Kesal dengan belum otomatis diperbaiki oleh Translator Helper?
+Sarankan typo kata dan ejaan kata Anda melalui menu tray **New Entries** atau shortcutnya tersedia.
+Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar.
 
 > Tip:
 > 
-> Setelah menyorot typo kata yang ingin dikoreksi, tekan **Win + Q** untuk shortcut membuka New typo submission. Lalu, edit kolom **Correction entry** dengan kata dengan ejaan yang benar. **Perlu koneksi internet**. Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman typo ke server saya berhasil atau tidak.
+> Setelah menyorot typo kata yang ingin dikoreksi, tekan **Win + Q** untuk shortcut membuka New typo submission.
+> Lalu, edit kolom **Correction entry** dengan kata dengan ejaan yang benar.
+> **Perlu koneksi internet**.
+> Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman typo ke server saya berhasil atau tidak.
 {: .block-tip }
 
 ### Pengecekan versi di About
 ---
-Ingin tahu apakah data base Translator Helper sudah diperbarui atau belum? Anda cukup buka menu tray **About** dan melihat versi aplikasi yang Anda gunakan dan versi terbaru **Translator Helper**.
+Ingin tahu apakah data base Translator Helper sudah diupdate atau belum?
+Anda cukup buka menu tray **About** dan melihat versi aplikasi yang Anda gunakan dan versi terbaru **Translator Helper**.
 
 > Tip:
 > 
-> Di kiri bawah, klik kanan dan pilih **About**. Tekan tombol **Check** di bawah *Translator Helper version X.X.X*.
+> Di kiri bawah, klik kanan dan pilih **About** lalu tekan tombol **Check** di bawah *Translator Helper version X.X.X*.
 {: .block-tip }
 
 ### Menambahkan fitur Suspend
 ---
-Aplikasi bisa dijeda (suspend) agar tidak mengoreksi otomatis teks yang sedang Anda ketik jika diperlukan. Ini berguna, misalnya, saat Anda mengobrol melalui obrolan WhatsApp yang terlalu formal atau saat Anda bermain game.
+Aplikasi bisa dijeda (suspend) agar tidak mengoreksi otomatis teks yang sedang Anda ketik jika diperlukan.
+Ini berguna, misalnya, saat Anda mengobrol melalui obrolan WhatsApp yang terlalu formal atau saat Anda bermain game.
 
 > Tip:
 > 
-> Di ikon tray Translator Helper, klik kanan lalu pilih **Suspend** untuk menjeda semua autocorrection dan tekan **Unsuspend** untuk membatalkan jeda. Icon akan berubah menjadi **S** dengan warna hijau.
+> Di ikon tray Translator Helper, klik kanan lalu pilih **Suspend** untuk menjeda semua autocorrection dan tekan **Unsuspend** untuk membatalkan jeda.
+> Icon akan berubah menjadi **S** dengan warna hijau.
 {: .block-tip }
 
 - User feedback (next update)
 
 > ## Fitur statistik dan logging
 
-- Mencatat berapa kali aplikasi ini membantu Anda pada sesi ini dan semua sesi. Bisa dilihat di tab **Stats** pada About.
+- Mencatat berapa kali aplikasi ini membantu Anda pada sesi ini dan semua sesi.
+- Statistik bisa dilihat di tab **Stats** pada menu tray **About**.
 
 > ## Fitur keamanan
 
@@ -93,7 +109,7 @@ Pengguna memasukkan sandi agar bisa menggunakan aplikasi.
 
 ### Informasi lain
 ---
-Translator Helper akan diupdate seminggu hingga dua minggu sekali dan update history akan bisa dilihat di situs ini.
+Translator Helper akan diupdate seminggu hingga dua minggu sekali dan update history akan bisa dilihat di situs ini (mungkin).
 
 [^1]: hanya yang sudah dimasukkan database, tidak untuk dua kata yang dipisah spasi, dan jarak pengetikan antarkarakter/kata tidak terlalu lama.
 [^2]: tidak bisa digunakan bersamaan dengan KeyRepeater, more testing needed.
