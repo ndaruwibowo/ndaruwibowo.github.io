@@ -44,28 +44,34 @@ Menghilangkan informasi origin di Trados Studio, IYKYK.[^2] **USE AT YOUR OWN RI
 
 ### On-screen helps/notices untuk fitur 1 and 2
 ---
+Tombol bantuan yang tersedia di berbagai UI Translator Helper.
+
 > Tip:
 > 
 > Tekan tombol **?** jika ada di tiap UI fiturnya.
 {: .block-tip }
 
-### New autocorrect suggestions jika berkontribusi terhadap database autocorrect Translator Helper
+### New typo submission jika berkontribusi terhadap database autocorrect Translator Helper
 ---
+Kesal dengan belum otomatis diperbaiki oleh Translator Helper? Sarankan typo kata dan ejaan kata Anda melalui menu tray **New Entries** atau shortcutnya tersedia. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar.
+
 > Tip:
 > 
-> Tekan **Win + Q**. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar. Perlu koneksi internet. Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman berhasil atau tidak.
+> Setelah menyorot typo kata yang ingin dikoreksi, tekan **Win + Q** untuk shortcut membuka New typo submission. Lalu, edit kolom **Correction entry** dengan kata dengan ejaan yang benar. **Perlu koneksi internet**. Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman typo ke server saya berhasil atau tidak.
 {: .block-tip }
 
 ### Pengecekan versi di About
 ---
+Ingin tahu apakah data base Translator Helper sudah diperbarui atau belum? Anda cukup buka menu tray **About** dan melihat versi aplikasi yang Anda gunakan dan versi terbaru **Translator Helper**.
+
 > Tip:
 > 
 > Di kiri bawah, klik kanan dan pilih **About**. Tekan tombol **Check** di bawah *Translator Helper version X.X.X*.
 {: .block-tip }
 
-### Menambahkan fitur Suspend untuk menghentikan semua autocorrection jika diperlukan
+### Menambahkan fitur Suspend
 ---
-Aplikasi bisa dijeda (suspend) agar tidak mengoreksi otomatis teks yang sedang Anda ketik. Ini berguna, misalnya, saat Anda mengobrol melalui obrolan WhatsApp yang terlalu formal atau saat Anda bermain game.
+Aplikasi bisa dijeda (suspend) agar tidak mengoreksi otomatis teks yang sedang Anda ketik jika diperlukan. Ini berguna, misalnya, saat Anda mengobrol melalui obrolan WhatsApp yang terlalu formal atau saat Anda bermain game.
 
 > Tip:
 > 
