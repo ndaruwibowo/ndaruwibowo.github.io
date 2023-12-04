@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ndaruwibowo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ndaruwibowo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-04T05:07:04+00:00</updated><id>https://ndaruwibowo.github.io/feed.xml</id><title type="html">Ndaru, the bored translator</title><subtitle>Simple web for notes and nitpicks from the bored translator.
-</subtitle><entry><title type="html">Translator Helper Guide</title><link href="https://ndaruwibowo.github.io/blog/2023/translator-helper-help/" rel="alternate" type="text/html" title="Translator Helper Guide" /><published>2023-12-04T00:00:00+00:00</published><updated>2023-12-04T00:00:00+00:00</updated><id>https://ndaruwibowo.github.io/blog/2023/translator-helper-help</id><content type="html" xml:base="https://ndaruwibowo.github.io/blog/2023/translator-helper-help/"><![CDATA[<p>Translator Helper adalah passion project saya terhadap dunia penerjemahan. Aplikasi ini akan otomatis</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ndaruwibowo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ndaruwibowo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-04T05:13:01+00:00</updated><id>https://ndaruwibowo.github.io/feed.xml</id><title type="html">Ndaru, the bored translator</title><subtitle>Simple web for notes and nitpicks from the bored translator.
+</subtitle><entry><title type="html">Translator Helper Guide</title><link href="https://ndaruwibowo.github.io/blog/2023/translator-helper-help/" rel="alternate" type="text/html" title="Translator Helper Guide" /><published>2023-12-04T00:00:00+00:00</published><updated>2023-12-04T00:00:00+00:00</updated><id>https://ndaruwibowo.github.io/blog/2023/translator-helper-help</id><content type="html" xml:base="https://ndaruwibowo.github.io/blog/2023/translator-helper-help/"><![CDATA[<p>Translator Helper adalah passion project saya terhadap dunia penerjemahan.
+Aplikasi ini akan membantu meringankan beberapa pekerjaan penerjemah.</p>
 
 <blockquote>
   <h2 id="fitur-utama">Fitur utama</h2>
@@ -7,12 +8,15 @@
 
 <h3 id="autocorrection">Autocorrection</h3>
 <hr />
-<p>Otomatis mengoreksi kesalahan eja/kata kasar. Akan ada pemberitahuan di kiri bawah desktop bertuliskan “Translator Helper have just saved you from a typo”.</p>
+<p>Otomatis mengoreksi kesalahan eja/kata kasar.
+Akan ada pemberitahuan di kiri bawah desktop bertuliskan “Translator Helper have just saved you from a typo”.</p>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Pengguna cukup mengaktifkan aplikasi dan mengetik seperti biasa. Aplikasi akan otomatis mengoreksi jika ada typo/kata kasar yang terdeteksi.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> Misal, saat mengetik <em>anda menjadi Anda, tai menjadi tadi</em>.</p>
+  <p>Pengguna cukup mengaktifkan aplikasi dan mengetik seperti biasa.
+Aplikasi akan otomatis mengoreksi jika ada typo/kata kasar yang terdeteksi.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>
+Misal, saat mengetik <em>anda menjadi Anda, tai menjadi tadi</em>.</p>
 </blockquote>
 
 <h3 id="keyrepeater">KeyRepeater</h3>
@@ -22,7 +26,8 @@
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Klik kiri di ikon Translator Helper di taskbar, lalu pilih agar KeyRepeater. Setelah itu, masukkan kombinasi kata/keyboard yang diinginkan.</p>
+  <p>Klik kiri di ikon Translator Helper di taskbar, lalu pilih agar KeyRepeater.
+Setelah itu, masukkan kombinasi kata/keyboard yang diinginkan.</p>
 </blockquote>
 
 <p><strong>Cheatsheet:</strong> menyusul</p>
@@ -34,7 +39,8 @@
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Tekan <strong>Ctrl + Space</strong>. Disarankan untuk tidak menekan apa pun saat prosesnya berlangsung</p>
+  <p>Tekan <strong>Ctrl + Space</strong>.
+<strong>Sangat disarankan</strong> untuk tidak menekan apa pun saat prosesnya berlangsung</p>
 </blockquote>
 
 <blockquote>
@@ -53,32 +59,40 @@
 
 <h3 id="new-typo-submission-jika-berkontribusi-terhadap-database-autocorrect-translator-helper">New typo submission jika berkontribusi terhadap database autocorrect Translator Helper</h3>
 <hr />
-<p>Kesal dengan belum otomatis diperbaiki oleh Translator Helper? Sarankan typo kata dan ejaan kata Anda melalui menu tray <strong>New Entries</strong> atau shortcutnya tersedia. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar.</p>
+<p>Kesal dengan belum otomatis diperbaiki oleh Translator Helper?
+Sarankan typo kata dan ejaan kata Anda melalui menu tray <strong>New Entries</strong> atau shortcutnya tersedia.
+Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar.</p>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Setelah menyorot typo kata yang ingin dikoreksi, tekan <strong>Win + Q</strong> untuk shortcut membuka New typo submission. Lalu, edit kolom <strong>Correction entry</strong> dengan kata dengan ejaan yang benar. <strong>Perlu koneksi internet</strong>. Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman typo ke server saya berhasil atau tidak.</p>
+  <p>Setelah menyorot typo kata yang ingin dikoreksi, tekan <strong>Win + Q</strong> untuk shortcut membuka New typo submission.
+Lalu, edit kolom <strong>Correction entry</strong> dengan kata dengan ejaan yang benar.
+<strong>Perlu koneksi internet</strong>.
+Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman typo ke server saya berhasil atau tidak.</p>
 </blockquote>
 
 <h3 id="pengecekan-versi-di-about">Pengecekan versi di About</h3>
 <hr />
-<p>Ingin tahu apakah data base Translator Helper sudah diperbarui atau belum? Anda cukup buka menu tray <strong>About</strong> dan melihat versi aplikasi yang Anda gunakan dan versi terbaru <strong>Translator Helper</strong>.</p>
+<p>Ingin tahu apakah data base Translator Helper sudah diupdate atau belum?
+Anda cukup buka menu tray <strong>About</strong> dan melihat versi aplikasi yang Anda gunakan dan versi terbaru <strong>Translator Helper</strong>.</p>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Di kiri bawah, klik kanan dan pilih <strong>About</strong>. Tekan tombol <strong>Check</strong> di bawah <em>Translator Helper version X.X.X</em>.</p>
+  <p>Di kiri bawah, klik kanan dan pilih <strong>About</strong> lalu tekan tombol <strong>Check</strong> di bawah <em>Translator Helper version X.X.X</em>.</p>
 </blockquote>
 
 <h3 id="menambahkan-fitur-suspend">Menambahkan fitur Suspend</h3>
 <hr />
-<p>Aplikasi bisa dijeda (suspend) agar tidak mengoreksi otomatis teks yang sedang Anda ketik jika diperlukan. Ini berguna, misalnya, saat Anda mengobrol melalui obrolan WhatsApp yang terlalu formal atau saat Anda bermain game.</p>
+<p>Aplikasi bisa dijeda (suspend) agar tidak mengoreksi otomatis teks yang sedang Anda ketik jika diperlukan.
+Ini berguna, misalnya, saat Anda mengobrol melalui obrolan WhatsApp yang terlalu formal atau saat Anda bermain game.</p>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Di ikon tray Translator Helper, klik kanan lalu pilih <strong>Suspend</strong> untuk menjeda semua autocorrection dan tekan <strong>Unsuspend</strong> untuk membatalkan jeda. Icon akan berubah menjadi <strong>S</strong> dengan warna hijau.</p>
+  <p>Di ikon tray Translator Helper, klik kanan lalu pilih <strong>Suspend</strong> untuk menjeda semua autocorrection dan tekan <strong>Unsuspend</strong> untuk membatalkan jeda.
+Icon akan berubah menjadi <strong>S</strong> dengan warna hijau.</p>
 </blockquote>
 
 <ul>
@@ -90,7 +104,8 @@
 </blockquote>
 
 <ul>
-  <li>Mencatat berapa kali aplikasi ini membantu Anda pada sesi ini dan semua sesi. Bisa dilihat di tab <strong>Stats</strong> pada About.</li>
+  <li>Mencatat berapa kali aplikasi ini membantu Anda pada sesi ini dan semua sesi.</li>
+  <li>Statistik bisa dilihat di tab <strong>Stats</strong> pada menu tray <strong>About</strong>.</li>
 </ul>
 
 <blockquote>
@@ -109,7 +124,7 @@ Pengguna memasukkan sandi agar bisa menggunakan aplikasi.</p>
 
 <h3 id="informasi-lain">Informasi lain</h3>
 <hr />
-<p>Translator Helper akan diupdate seminggu hingga dua minggu sekali dan update history akan bisa dilihat di situs ini.</p>
+<p>Translator Helper akan diupdate seminggu hingga dua minggu sekali dan update history akan bisa dilihat di situs ini (mungkin).</p>
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
