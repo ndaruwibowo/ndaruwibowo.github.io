@@ -7,14 +7,12 @@ categories: Guide
 giscus_comments: false
 related_posts: true
 ---
-> # Translator Helper
-
 Translator Helper adalah passion project saya terhadap dunia penerjemahan. Aplikasi ini akan otomatis 
 
 > ## Fitur utama
 
 ### Autocorrection
-
+---
 Otomatis mengoreksi kesalahan eja/kata kasar. Akan ada pemberitahuan di kiri bawah desktop bertuliskan "Translator Helper have just saved you from a typo".
 
 > Tip:
@@ -23,7 +21,7 @@ Otomatis mengoreksi kesalahan eja/kata kasar. Akan ada pemberitahuan di kiri baw
 {: .block-tip }
 
 ### KeyRepeater
-
+---
 Tidak perlu menekan kombinasi keyboard berulang kali karena ada bantuan KeyRepeater. *No more carpal tunnel syndrome!*
 
 > Tip:
@@ -34,7 +32,7 @@ Tidak perlu menekan kombinasi keyboard berulang kali karena ada bantuan KeyRepea
 **Cheatsheet:** menyusul
 
 ### Obfuscating/masking origin untuk Trados Studio
-
+---
 Menghilangkan informasi origin di Trados Studio, IYKYK.[^2] **USE AT YOUR OWN RISK**.
 
 > Tip:
@@ -45,27 +43,29 @@ Menghilangkan informasi origin di Trados Studio, IYKYK.[^2] **USE AT YOUR OWN RI
 > ## Fitur bantuan/masukan:
 
 ### On-screen helps/notices untuk fitur 1 and 2
-
+---
 > Tip:
 > 
 > Tekan tombol **?** jika ada di tiap UI fiturnya.
 {: .block-tip }
 
 ### New autocorrect suggestions jika berkontribusi terhadap database autocorrect Translator Helper
-
+---
 > Tip:
 > 
 > Tekan **Win + Q**. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar. Perlu koneksi internet. Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman berhasil atau tidak.
 {: .block-tip }
 
 ### Pengecekan versi di About
-
+---
 > Tip:
 > 
 > Di kiri bawah, klik kanan dan pilih **About**. Tekan tombol **Check** di bawah *Translator Helper version X.X.X*.
 {: .block-tip }
 
 ### Menambahkan fitur Suspend untuk menghentikan semua autocorrection jika diperlukan
+---
+Aplikasi bisa dijeda (suspend) agar tidak mengoreksi otomatis teks yang sedang Anda ketik. Ini berguna, misalnya, saat Anda mengobrol melalui obrolan WhatsApp yang terlalu formal atau saat Anda bermain game.
 
 > Tip:
 > 
@@ -85,8 +85,8 @@ Pengguna memasukkan sandi agar bisa menggunakan aplikasi.
 
 - License-based (next major version)
 
-> ## Informasi lain
-
+### Informasi lain
+---
 Translator Helper akan diupdate seminggu hingga dua minggu sekali dan update history akan bisa dilihat di situs ini.
 
 [^1]: hanya yang sudah dimasukkan database, tidak untuk dua kata yang dipisah spasi, dan jarak pengetikan antarkarakter/kata tidak terlalu lama.
