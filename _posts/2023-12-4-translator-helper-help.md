@@ -1,3 +1,12 @@
+---
+layout: post
+title: a post with custom blockquotes
+date: 2023-05-12 15:53:00-0400
+description: an example of a blog post with custom blockquotes
+categories: sample-posts blockquotes
+giscus_comments: true
+related_posts: true
+---
 # <img src="https://github.com/ndaruwibowo/translator-helper/blob/main/img/_Logo%20Translator%20Helper.png" width="40" height="40"> TRANSLATOR HELPER GUIDE
 
 ## Fitur utama
