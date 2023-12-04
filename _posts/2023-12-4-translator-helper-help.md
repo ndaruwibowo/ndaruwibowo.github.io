@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with custom blockquotes
+title: Translator Helper Guide
 date: 2023-12-04
-description: Translator Helper Guide
+description: Simple guide for Translator Helper user
 categories: Guide
 giscus_comments: false
 related_posts: true
