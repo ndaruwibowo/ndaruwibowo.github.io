@@ -13,7 +13,7 @@ Translator Helper adalah passion project saya terhadap dunia penerjemahan. Aplik
 
 > ## Fitur utama
 
-> ### Autocorrection
+### Autocorrection
 
 Otomatis mengoreksi kesalahan eja/kata kasar. Akan ada pemberitahuan di kiri bawah desktop bertuliskan "Translator Helper have just saved you from a typo".
 
@@ -22,7 +22,7 @@ Otomatis mengoreksi kesalahan eja/kata kasar. Akan ada pemberitahuan di kiri baw
 > Pengguna cukup Otomatis aktif jika ada typo/kata kasar yang terdeteksi.[^1] Misal, saat mengetik *anda menjadi Anda, tai menjadi tadi*.
 {: .block-tip }
 
-> ### KeyRepeater
+### KeyRepeater
 
 Tidak perlu menekan kombinasi keyboard berulang kali. *No more carpal tunnel syndrome!*
 
@@ -33,7 +33,7 @@ Tidak perlu menekan kombinasi keyboard berulang kali. *No more carpal tunnel syn
 
 **Cheatsheet:** menyusul
 
-> ### Obfuscating/masking origin untuk Trados Studio
+### Obfuscating/masking origin untuk Trados Studio
 
 Menghilangkan informasi origin di Trados Studio.[^2] **USE AT YOUR OWN RISK**.
 
@@ -44,28 +44,28 @@ Menghilangkan informasi origin di Trados Studio.[^2] **USE AT YOUR OWN RISK**.
 
 > ## Fitur bantuan/masukan:
 
-> ### On-screen helps/notices untuk fitur 1 and 2
+### On-screen helps/notices untuk fitur 1 and 2
 
 > Tip:
 > 
 > Tekan tombol ? jika ada di tiap UI fiturnya.
 {: .block-tip }
 
-> ### New autocorrect suggestions untuk menambah jumlah database autocorrect
+### New autocorrect suggestions untuk menambah jumlah database autocorrect
 
 > Tip:
 > 
 > Tekan Win + Q. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar. Perlu koneksi internet. Jika pengiriman berhasil, akan ada notifikasi di atas taskbar.
 {: .block-tip }
 
-> ### Pengecekan versi di About
+### Pengecekan versi di About
 
 > Tip:
 > 
 > Di kiri bawah, klik kanan dan pilih About. Tekan tombol "Check" di bawah *Translator Helper version X.X.X*.
 {: .block-tip }
 
-> ### Menambahkan fitur Suspend untuk menghentikan semua autocorrection jika diperlukan
+### Menambahkan fitur Suspend untuk menghentikan semua autocorrection jika diperlukan
 
 > Tip:
 > 
@@ -74,11 +74,11 @@ Menghilangkan informasi origin di Trados Studio.[^2] **USE AT YOUR OWN RISK**.
 
 - User feedback (next update)
 
-> ## Fitur statistik dan logging:
+> ## Fitur statistik dan logging
 
 - Mencatat berapa kali aplikasi ini membantu Anda pada sesi ini dan semua sesi. Bisa dilihat di tab **Stats** pada About.
 
-> ## Fitur keamanan:
+> ## Fitur keamanan
 
 - Pw based login (current version):
 Pengguna memasukkan sandi agar bisa menggunakan aplikasi. 
