@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ndaruwibowo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ndaruwibowo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-04T04:55:02+00:00</updated><id>https://ndaruwibowo.github.io/feed.xml</id><title type="html">Ndaru, the bored translator</title><subtitle>Simple web for notes and nitpicks from the bored translator.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://ndaruwibowo.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ndaruwibowo.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-04T05:07:04+00:00</updated><id>https://ndaruwibowo.github.io/feed.xml</id><title type="html">Ndaru, the bored translator</title><subtitle>Simple web for notes and nitpicks from the bored translator.
 </subtitle><entry><title type="html">Translator Helper Guide</title><link href="https://ndaruwibowo.github.io/blog/2023/translator-helper-help/" rel="alternate" type="text/html" title="Translator Helper Guide" /><published>2023-12-04T00:00:00+00:00</published><updated>2023-12-04T00:00:00+00:00</updated><id>https://ndaruwibowo.github.io/blog/2023/translator-helper-help</id><content type="html" xml:base="https://ndaruwibowo.github.io/blog/2023/translator-helper-help/"><![CDATA[<p>Translator Helper adalah passion project saya terhadap dunia penerjemahan. Aplikasi ini akan otomatis</p>
 
 <blockquote>
@@ -43,31 +43,37 @@
 
 <h3 id="on-screen-helpsnotices-untuk-fitur-1-and-2">On-screen helps/notices untuk fitur 1 and 2</h3>
 <hr />
+<p>Tombol bantuan yang tersedia di berbagai UI Translator Helper.</p>
+
 <blockquote class="block-tip">
   <p>Tip:</p>
 
   <p>Tekan tombol <strong>?</strong> jika ada di tiap UI fiturnya.</p>
 </blockquote>
 
-<h3 id="new-autocorrect-suggestions-jika-berkontribusi-terhadap-database-autocorrect-translator-helper">New autocorrect suggestions jika berkontribusi terhadap database autocorrect Translator Helper</h3>
+<h3 id="new-typo-submission-jika-berkontribusi-terhadap-database-autocorrect-translator-helper">New typo submission jika berkontribusi terhadap database autocorrect Translator Helper</h3>
 <hr />
+<p>Kesal dengan belum otomatis diperbaiki oleh Translator Helper? Sarankan typo kata dan ejaan kata Anda melalui menu tray <strong>New Entries</strong> atau shortcutnya tersedia. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar.</p>
+
 <blockquote class="block-tip">
   <p>Tip:</p>
 
-  <p>Tekan <strong>Win + Q</strong>. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar. Perlu koneksi internet. Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman berhasil atau tidak.</p>
+  <p>Setelah menyorot typo kata yang ingin dikoreksi, tekan <strong>Win + Q</strong> untuk shortcut membuka New typo submission. Lalu, edit kolom <strong>Correction entry</strong> dengan kata dengan ejaan yang benar. <strong>Perlu koneksi internet</strong>. Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman typo ke server saya berhasil atau tidak.</p>
 </blockquote>
 
 <h3 id="pengecekan-versi-di-about">Pengecekan versi di About</h3>
 <hr />
+<p>Ingin tahu apakah data base Translator Helper sudah diperbarui atau belum? Anda cukup buka menu tray <strong>About</strong> dan melihat versi aplikasi yang Anda gunakan dan versi terbaru <strong>Translator Helper</strong>.</p>
+
 <blockquote class="block-tip">
   <p>Tip:</p>
 
   <p>Di kiri bawah, klik kanan dan pilih <strong>About</strong>. Tekan tombol <strong>Check</strong> di bawah <em>Translator Helper version X.X.X</em>.</p>
 </blockquote>
 
-<h3 id="menambahkan-fitur-suspend-untuk-menghentikan-semua-autocorrection-jika-diperlukan">Menambahkan fitur Suspend untuk menghentikan semua autocorrection jika diperlukan</h3>
+<h3 id="menambahkan-fitur-suspend">Menambahkan fitur Suspend</h3>
 <hr />
-<p>Aplikasi bisa dijeda (suspend) agar tidak mengoreksi otomatis teks yang sedang Anda ketik. Ini berguna, misalnya, saat Anda mengobrol melalui obrolan WhatsApp yang terlalu formal atau saat Anda bermain game.</p>
+<p>Aplikasi bisa dijeda (suspend) agar tidak mengoreksi otomatis teks yang sedang Anda ketik jika diperlukan. Ini berguna, misalnya, saat Anda mengobrol melalui obrolan WhatsApp yang terlalu formal atau saat Anda bermain game.</p>
 
 <blockquote class="block-tip">
   <p>Tip:</p>
