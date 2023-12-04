@@ -7,9 +7,11 @@ categories: Guide
 giscus_comments: false
 related_posts: true
 ---
-Translator Helper adalah passion project saya terhadap dunia penerjemahan.
-Aplikasi ini akan membantu meringankan beberapa pekerjaan penerjemah.
-
+**Translator Helper** adalah aplikasi ini berjalan di **latar belakang** (langsung minimize setelah dijalankan) untuk  membantu meringankan beberapa pekerjaan penerjemah, tertama **typo**.
+Premisnya sederhana, typo itu tidak baik, memperbaiki typo sambil bekerja itu menyebalkan, jadi sebaiknya ada aplikasi untuk mencegah typo itu terjadi, _in the first place_.
+Lalu, saya mengembangkan aplikasi sederhana ini dari tahun 2022 akhir hingga sekarang dan menamainya **Translator Helper** untuk menunjukkan bahwa ini adalah _passion project_ saya terhadap dunia penerjemahan.
+_I love translation and language intricacies_.
+Semoga Anda juga menyukainya seperti saya.
 
 > ## Fitur utama
 
