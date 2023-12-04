@@ -19,12 +19,12 @@ Otomatis mengoreksi kesalahan eja/kata kasar. Akan ada pemberitahuan di kiri baw
 
 > Tip:
 > 
-> Pengguna cukup Otomatis aktif jika ada typo/kata kasar yang terdeteksi.[^1] Misal, saat mengetik *anda menjadi Anda, tai menjadi tadi*.
+> Pengguna cukup mengaktifkan aplikasi dan mengetik seperti biasa. Aplikasi akan otomatis mengoreksi jika ada typo/kata kasar yang terdeteksi.[^1] Misal, saat mengetik *anda menjadi Anda, tai menjadi tadi*.
 {: .block-tip }
 
 ### KeyRepeater
 
-Tidak perlu menekan kombinasi keyboard berulang kali. *No more carpal tunnel syndrome!*
+Tidak perlu menekan kombinasi keyboard berulang kali karena ada bantuan KeyRepeater. *No more carpal tunnel syndrome!*
 
 > Tip:
 > 
@@ -35,11 +35,11 @@ Tidak perlu menekan kombinasi keyboard berulang kali. *No more carpal tunnel syn
 
 ### Obfuscating/masking origin untuk Trados Studio
 
-Menghilangkan informasi origin di Trados Studio.[^2] **USE AT YOUR OWN RISK**.
+Menghilangkan informasi origin di Trados Studio, IYKYK.[^2] **USE AT YOUR OWN RISK**.
 
 > Tip:
 > 
-> Tekan Ctrl + Space. Disarankan untuk tidak menekan apa pun saat prosesnya berlangsung
+> Tekan **Ctrl + Space**. Disarankan untuk tidak menekan apa pun saat prosesnya berlangsung
 {: .block-tip }  
 
 > ## Fitur bantuan/masukan:
@@ -48,28 +48,28 @@ Menghilangkan informasi origin di Trados Studio.[^2] **USE AT YOUR OWN RISK**.
 
 > Tip:
 > 
-> Tekan tombol ? jika ada di tiap UI fiturnya.
+> Tekan tombol **?** jika ada di tiap UI fiturnya.
 {: .block-tip }
 
-### New autocorrect suggestions untuk menambah jumlah database autocorrect
+### New autocorrect suggestions jika berkontribusi terhadap database autocorrect Translator Helper
 
 > Tip:
 > 
-> Tekan Win + Q. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar. Perlu koneksi internet. Jika pengiriman berhasil, akan ada notifikasi di atas taskbar.
+> Tekan **Win + Q**. Kolom pertama berisi typo yang ingin dikoreksi dan kolom kedua edit sesuai dengan ejaan yang benar. Perlu koneksi internet. Akan ada notifikasi di atas taskbar yang memberi tahu apakah pengiriman berhasil atau tidak.
 {: .block-tip }
 
 ### Pengecekan versi di About
 
 > Tip:
 > 
-> Di kiri bawah, klik kanan dan pilih About. Tekan tombol "Check" di bawah *Translator Helper version X.X.X*.
+> Di kiri bawah, klik kanan dan pilih **About**. Tekan tombol **Check** di bawah *Translator Helper version X.X.X*.
 {: .block-tip }
 
 ### Menambahkan fitur Suspend untuk menghentikan semua autocorrection jika diperlukan
 
 > Tip:
 > 
-> Di ikon tray Translator Helper, klik kanan lalu pilih **Suspend** untuk menjeda semua autocorrection dan tekan **Unsuspend** untuk membatalkan jeda. Icon akan berubah menjadi **S** dengan warna hijau. (Patch berikutnya akan menghilangkan ini agar tidak membingungkan pengguna)
+> Di ikon tray Translator Helper, klik kanan lalu pilih **Suspend** untuk menjeda semua autocorrection dan tekan **Unsuspend** untuk membatalkan jeda. Icon akan berubah menjadi **S** dengan warna hijau.
 {: .block-tip }
 
 - User feedback (next update)
@@ -80,10 +80,10 @@ Menghilangkan informasi origin di Trados Studio.[^2] **USE AT YOUR OWN RISK**.
 
 > ## Fitur keamanan
 
-- Pw based login (current version):
+- Pw-based login (current version):
 Pengguna memasukkan sandi agar bisa menggunakan aplikasi. 
 
-- License based (next major version)
+- License-based (next major version)
 
 > ## Informasi lain
 
