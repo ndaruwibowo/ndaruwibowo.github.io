@@ -113,7 +113,6 @@ contact_note: >
 # -----------------------------------------------------------------------------
 
 google_analytics: G-2GGNQNMEB7 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-  enabled: true
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
