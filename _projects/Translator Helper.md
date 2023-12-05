@@ -49,5 +49,8 @@ You can also see how much Translator Helper _has helped_ you since the beginning
 If you like the application or want to support its continuous development, please consider purchasing the magic phrase to get all the functionalities of Translator Helper.
 You can pay for the magic phrase [my digital store](https://lynk.id/tokondaru).
 This magic phrase is valid for one year only for the minor update of Translator Helper.
-> **Note:** If you decide to not purchase the next valid magic phrase, please DO NOT update/replace your copy of Translator Helper.
+> **NOTE:**
+> 
+> If you decide to not purchase the next valid magic phrase, please DO NOT update/replace your copy of Translator Helper.
 > Otherwise, you will not be able to use all the functionalities, and you must purchase the magic phrase or back using the lite version.
+{: .block-warning }
