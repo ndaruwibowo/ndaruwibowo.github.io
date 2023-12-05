@@ -42,9 +42,9 @@ I love translation and language intrigue. Hope you like it as much as I do.
 ---
 You can use the Translator Helper lite version, the cut-down database version, as long and as much as you like.
 You can purchase the full version weeks later or months later if you will, but your support is very much appreciated.
-You can also see how much Translator Helper _has helped_ you since the beginning in tab Stats.
+You can also see how much Translator Helper _has helped_ you since the beginning in the tab Stats.
 
-# Like the app? Please consider buying the magic phrase
+## Like the app? Please consider buying the magic phrase
 
 If you like the application or want to support its continuous development, please consider purchasing the magic phrase to get all the functionalities of Translator Helper.
 You can pay for the magic phrase [my digital store](https://lynk.id/tokondaru).
