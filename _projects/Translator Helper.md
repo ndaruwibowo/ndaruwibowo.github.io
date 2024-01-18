@@ -15,18 +15,12 @@ I love translation and language intrigue. Hope you like it as much as I do.
 # What can it do for you
 ---
 - **Autocorrect** your typos and bad words from its built-in bespoke database.
-  Currently, 900+ words will  most likely cover your Translation Typing Words needs (for EN-ID language pair at least) and it will continue to grow.
+  Currently, 1000+ words will most likely cover your Translation typing words needs (for EN-ID language pair) and it will continue to grow.
   For example, replacing _anda to Anda_ is automatically replaced as soon as you type space.
 
   [put gif here]
   
 - **KeyRepeater** will allow you to not do repetitive tasks (**Magic phrase required**), such as confirming each and every segment in some CAT tools that do not support multisegment confirmation.
-
-  [put gif here]
-  
-- **Offline access** for glossary databases (**Magic phrase required**).
-  Sometimes you have connection problems, be it slow internet speed or the server you're trying to reach is unresponsive.
-  With its built-in offline glossaries from popular websites, you can confidently search and find terms as your heart desires.
 
   [put gif here]
 
