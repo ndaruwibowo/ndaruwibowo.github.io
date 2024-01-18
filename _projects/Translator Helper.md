@@ -20,11 +20,11 @@ I love translation and language intrigue. Hope you like it as much as I do.
 
   [put gif here]
   
-- **KeyRepeater** will allow you to not do repetitive tasks, such as confirming each and every segment in some CAT tools that do not support multisegment confirmation.
+- **KeyRepeater** will allow you to not do repetitive tasks (**Magic phrase required**), such as confirming each and every segment in some CAT tools that do not support multisegment confirmation.
 
   [put gif here]
   
-- **Offline access** for glossary databases.
+- **Offline access** for glossary databases (**Magic phrase required**).
   Sometimes you have connection problems, be it slow internet speed or the server you're trying to reach is unresponsive.
   With its built-in offline glossaries from popular websites, you can confidently search and find terms as your heart desires.
 
@@ -40,8 +40,8 @@ I love translation and language intrigue. Hope you like it as much as I do.
 
 # Still not convinced? Give it a try!
 ---
-You can use the Translator Helper lite version, the cut-down database version, as long and as much as you like.
-You can purchase the full version weeks later or months later if you will, but your support is very much appreciated.
+You can use the Translator Helper lite version, the cut-down database version, as long and as much as you like just select the option **Use lite version**.
+You can purchase the full version days, weeks, or months later if you will, but your support is very much appreciated.
 You can also see how much Translator Helper _has helped_ you since the beginning in the tab Stats.
 
 ## Like the app? Please consider buying the magic phrase
@@ -52,5 +52,9 @@ This magic phrase is valid for one year only for the minor update of Translator 
 > ### NOTE
 > 
 > If you decide to not purchase the next valid magic phrase, please DO NOT update/replace your copy of Translator Helper.
-> Otherwise, you will not be able to use all the functionalities, and you must purchase the magic phrase or back using the lite version.
+> Otherwise, you will not be able to use the full functionalities, and you must purchase the magic phrase or back using the lite version.
 {: .block-warning }
+
+## Need some guides to use Translator Helper?
+---
+[Here](https://ndaruwibowo.github.io/blog/2023/translator-helper-help/) is a quick guide and explanation on how to use the app. Suggestions are highly appreciated.
