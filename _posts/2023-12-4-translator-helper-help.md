@@ -101,6 +101,7 @@ Ini berguna, misalnya, saat Anda mengobrol melalui obrolan WhatsApp yang terlalu
 
 - Mencatat berapa kali aplikasi ini membantu Anda pada sesi ini dan semua sesi.
 - Statistik bisa dilihat di tab **Stats** pada menu tray **About**.
+- Mencatat typo yang dilakukan pengguna di tab **History** pada menu tray **About**.
 
 > ## Fitur keamanan
 
