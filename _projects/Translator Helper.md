@@ -2,7 +2,7 @@
 layout: page
 title: Translator Helper
 description: Small apps to ease some translator's burdens
-img: assets/img/12.jpg
+img: assets/img/_Logo-Translator-Helper.png
 importance: 1
 category: work
 ---
