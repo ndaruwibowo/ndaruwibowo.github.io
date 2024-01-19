@@ -1,15 +1,15 @@
 ---
 layout: page
 permalink: /Translator Helper Privacy Policy/
-title: Translator Helper Privacy Policy
-description: Privacy Policy for Translator Helper application.
+title: privacy policy
+description: This page outlines the privacy policy for the Translator Helper application.
 nav: true
 nav_order: 3
 ---
 
 # Translator Helper Privacy Policy
 
-I, M. Ndaru Wibowo, take your privacy seriously. To better protect your privacy, I provide this privacy policy notice explaining the way your personal information is collected and used.
+I, M. Ndaru Wibowo, take your privacy seriously. To better protect your privacy, I provide this privacy policy notice explaining the way your personal information is collected and used by the Translator Helper application.
 
 
 ## Collection of Information
