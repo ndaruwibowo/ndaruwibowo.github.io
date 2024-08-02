@@ -1,0 +1,311 @@
+:root {
+    --background-color: #f4f4f4;
+    --text-color: #333;
+    --header-background: #333;
+    --header-text: #fff;
+    --footer-background: #333;
+    --footer-text: #fff;
+    --project-background: #fff;
+    --project-shadow: rgba(0, 0, 0, 0.1);
+    --link-color: #007bff;
+    --link-hover-color: #0056b3;
+  }
+  
+  body.dark-mode {
+    --background-color: #333;
+    --text-color: #f4f4f4;
+    --header-background: #555;
+    --header-text: #fff;
+    --footer-background: #555;
+    --footer-text: #fff;
+    --project-background: #444;
+    --project-shadow: rgba(0, 0, 0, 0.5);
+    --link-color: #4a90e2; /* Light blue for dark mode */
+    --link-hover-color: #357abd; /* Darker blue for dark mode */
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  header {
+    background: var(--header-background);
+    color: var(--header-text);
+    padding: 1em 0;
+  }
+  
+  header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  header nav {
+    display: none; /* Hide by default for mobile */
+    flex-direction: column;
+    width: 100%;
+    background: var(--header-background);
+  }
+  
+  header nav.show {
+    display: flex; /* Show when toggled */
+  }
+  
+  header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header nav ul li {
+    margin: 0.5em 0;
+    text-align: center;
+  }
+  
+  header nav ul li a {
+    color: var(--header-text);
+    text-decoration: none;
+    padding: 0.5em 0.75em;
+    display: block;
+  }
+  
+  header nav ul li a:hover {
+    color: var(--link-hover-color);
+  }
+  
+  header #theme-toggle {
+    background: none;
+    border: 2px solid var(--header-text);
+    color: var(--header-text);
+    padding: 0.5em;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    margin: 1em 0; /* Center the button with margin */
+  }
+  
+  header.dark-mode #theme-toggle {
+    background: var(--header-text);
+    color: var(--header-background);
+  }
+  
+  #burger-menu {
+    display: block;
+    background: none;
+    border: none;
+    color: var(--header-text);
+    font-size: 1.5em;
+    cursor: pointer;
+  }
+  
+  section {
+    padding: 2em 0;
+  }
+  
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    border-bottom: 2px solid var(--text-color);
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+  }
+  
+  .about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .about-content img {
+    border-radius: 50%;
+    margin-bottom: 1em;
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+  }
+  
+  .projects-gallery {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1em;
+  }
+  
+  .project {
+    background: var(--project-background);
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px var(--project-shadow);
+    text-align: center;
+  }
+  
+  .image-container {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-bottom: 0.5em;
+  }
+  
+  .project img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 5px;
+  }
+  
+  footer {
+    background: var(--footer-background);
+    color: var(--footer-text);
+    text-align: center;
+    padding: 1em 0;
+  }
+  
+  .social-icons {
+    margin-top: 1em;
+  }
+  
+  .social-icon {
+    display: inline-block;
+    margin: 0 0.5em;
+  }
+  
+  .social-icon img {
+    width: 32px; /* Adjust size as needed */
+    height: 32px;
+    transition: opacity 0.3s;
+  }
+  
+  .social-icon:hover img {
+    opacity: 0.8;
+  }
+  
+  body.dark-mode .social-icon img {
+    filter: brightness(0.9);
+  }
+  
+  /* Styles for Skills Section */
+  .skills-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .skills-list li {
+    background: var(--project-background);
+    padding: 0.75em;
+    margin-bottom: 0.5em;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px var(--project-shadow);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+  }
+  
+  .skills-list i {
+    margin-right: 0.5em;
+  }
+  
+  .skills-list span {
+    flex-grow: 1;
+  }
+  
+  .certification-link {
+    color: var(--link-color);
+    text-decoration: none;
+    background: var(--background-color);
+    padding: 0.25em 0.5em;
+    border-radius: 3px;
+    font-size: 0.9em;
+  }
+  
+  .certification-link:hover {
+    color: var(--link-hover-color);
+  }
+  
+  #back-to-top {
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+    background: #007bff;
+    color: #fff;
+    padding: 0.5em;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    font-size: 1.5em;
+    text-align: center;
+    display: none;
+    z-index: 1000;
+    transition: opacity 0.3s ease;
+  }
+  
+  #back-to-top:hover {
+    background: #0056b3;
+  }
+  
+  body.dark-mode #back-to-top {
+    background: #4a90e2;
+  }
+  
+  body.dark-mode #back-to-top:hover {
+    background: #357abd;
+  }
+  
+  /* Media Queries for Larger Screens */
+  @media only screen and (min-width: 768px) {
+    header .container {
+      flex-direction: row;
+    }
+  
+    header nav {
+      display: flex;
+      order: 2;
+      flex-grow: 1;
+      justify-content: flex-end;
+    }
+  
+    header nav ul {
+      flex-direction: row;
+    }
+  
+    header nav ul li {
+      margin: 0 1em;
+    }
+  
+    header #theme-toggle {
+      order: 1;
+      margin: 1rem; /* Reset margin for larger screens */
+      margin-right: auto; /* Push it to the left */
+    }
+  
+    #burger-menu {
+      display: none;
+    }
+  
+    .projects-gallery {
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+  
+    .about-content {
+      flex-direction: row;
+    }
+  
+    .about-content img {
+      margin-right: 1em;
+      margin-bottom: 0;
+    }
+  }
+  
