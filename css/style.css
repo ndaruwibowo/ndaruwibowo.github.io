@@ -130,12 +130,8 @@
     margin-bottom: 1em;
   }
 
-  h3 p a {
-    --text-decoration-style: none;
-  }
-  
-  h4 ul li a {
-    --text-decoration-style: none;
+  .no-underline {
+    text-decoration: none;
   }
   
   .about-content {
