@@ -134,6 +134,11 @@
     text-decoration: none;
   }
   
+  #more {
+    display: none;
+    text-align: center;
+  }
+  
   .about-content {
     display: flex;
     flex-direction: column;
