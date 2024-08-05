@@ -9,7 +9,6 @@
     --project-shadow: rgba(0, 0, 0, 0.1);
     --link-color: #007bff;
     --link-hover-color: #0056b3;
-    --text-decoration-style: none;
   }
   
   body.dark-mode {
@@ -23,7 +22,6 @@
     --project-shadow: rgba(0, 0, 0, 0.5);
     --link-color: #4a90e2; /* Light blue for dark mode */
     --link-hover-color: #357abd; /* Darker blue for dark mode */
-    --text-decoration-style: none;
   }
   
   body {
@@ -173,7 +171,15 @@
     display: block;
     border-radius: 5px;
   }
+
+  h3 p a {
+    --text-decoration-style: none;
+  }
   
+  h4 ul li a {
+    --text-decoration-style: none;
+  }
+
   footer {
     background: var(--footer-background);
     color: var(--footer-text);
