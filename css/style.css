@@ -111,7 +111,13 @@
   
   section {
     padding: 2em 0;
-  }
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1366px; /* Set the max width */
+}
   
   .container {
     width: 90%;
