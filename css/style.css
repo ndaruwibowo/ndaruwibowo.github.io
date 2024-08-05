@@ -46,7 +46,7 @@
   }
   
   header h1 {
-    margin: 0;
+    margin: 1em;
   }
   
   header nav {
@@ -271,16 +271,22 @@
   }
   
   /* Media Queries for Larger Screens */
-  @media only screen and (min-width: 768px) {
+  @media (min-width: 768px) {
     header .container {
-      flex-direction: row;
+        flex-direction: row;
+        justify-content: center; /* Center content horizontally */
     }
-  
+
+    header h1 {
+        order: 1;
+        margin-right: 1em; /* Add some space between h1 and nav */
+    }
+
     header nav {
-      display: flex;
-      order: 2;
-      flex-grow: 1;
-      justify-content: flex-end;
+        display: flex;
+        order: 2;
+        flex-grow: 1;
+        justify-content: center; /* Center navigation */
     }
   
     header nav ul {
