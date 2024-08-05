@@ -129,6 +129,14 @@
     padding-bottom: 0.5em;
     margin-bottom: 1em;
   }
+
+  h3 p a {
+    --text-decoration-style: none;
+  }
+  
+  h4 ul li a {
+    --text-decoration-style: none;
+  }
   
   .about-content {
     display: flex;
@@ -170,14 +178,6 @@
     height: auto;
     display: block;
     border-radius: 5px;
-  }
-
-  h3 p a {
-    --text-decoration-style: none;
-  }
-  
-  h4 ul li a {
-    --text-decoration-style: none;
   }
 
   footer {
