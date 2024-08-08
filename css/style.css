@@ -254,7 +254,6 @@
   .category {
     font-style: italic;
     color: #555;
-    color: var(--link-color);
     background: var(--background-color);
     padding: 0.25em 0.5em;
     border-radius: 3px;
