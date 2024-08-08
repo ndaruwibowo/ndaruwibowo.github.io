@@ -175,8 +175,8 @@
   }
   
   .project img {
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 50%;
     display: block;
     border-radius: 5px;
   }
