@@ -250,6 +250,11 @@
   .certification-link:hover {
     color: var(--link-hover-color);
   }
+
+  .category {
+    font-style: italic;
+    color: #555;
+  }
   
   #back-to-top {
     position: fixed;
