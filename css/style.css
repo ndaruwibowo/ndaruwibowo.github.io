@@ -129,10 +129,6 @@
     padding-bottom: 0.5em;
     margin-bottom: 1em;
   }
-
-  .no-underline {
-    text-decoration: none;
-  }
   
   #more {
     display: none;
@@ -177,9 +173,12 @@
   .project img {
     width: 100%;
     height: auto;
-    aspect-ratio: 16/9 auto;
     display: block;
     border-radius: 5px;
+    aspect-ratio: 1;
+    -moz-transform: scale(0.7);
+    -webkit-transform: scale(0.7);
+    transform: scale(0.7);
   }
 
   footer {
@@ -196,7 +195,7 @@
   .social-icon {
     display: inline-block;
     margin: 0 0.5em;
-    font-size: 4em;
+    font-size: 2em;
   }
   
   .social-icon img {
