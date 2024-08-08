@@ -141,14 +141,6 @@
     align-items: center;
   }
   
-  .about-content img {
-    border-radius: 50%;
-    margin-bottom: 1em;
-    width: 100%;
-    max-width: 200px;
-    height: auto;
-  }
-  
   .projects-gallery {
     display: grid;
     grid-template-columns: 1fr;
