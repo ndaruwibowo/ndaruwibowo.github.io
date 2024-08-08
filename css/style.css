@@ -278,7 +278,11 @@
   body.dark-mode #back-to-top:hover {
     background: #357abd;
   }
-  
+
+  #other-experience {
+    display: none;
+  }
+
   /* Media Queries for Larger Screens */
   @media (min-width: 768px) {
     header .container {
