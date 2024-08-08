@@ -175,7 +175,7 @@
   }
   
   .project img {
-    width: 50%;
+    width: 150px;
     height: auto;
     aspect-ratio: 16/9 auto;
     display: block;
