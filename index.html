@@ -136,8 +136,8 @@
             </ul>
         </div>
         <!-- Add more work experiences as needed -->
+        <button onclick="readMoreFn()" id="readMoreBtn">Show more experience</button>
       </div>
-      <button onclick="myFunction()" id="myBtn">Show more experience</button>
     </section>
     <section id="projects">
       <div class="container">
@@ -204,14 +204,30 @@
     </section>
     <footer>
       <div class="container">
-        <p>&copy; <span id="copyright">
-            <script>
-              document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
-            </script>
+        <p>&copy;
+          <span id="copyright">
+            <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
           </span> Ndaru Wibowo. All rights reserved. </p>
       </div>
     </footer>
-    <script src="js/script.js"></script>
+    <script src="../js/script.js"></script>
+    <script>
+      function readMoreFn() {
+        var dots = document.getElementById("dots");
+        var moreText = document.getElementById("more");
+        var btnText = document.getElementById("myBtn");
+
+        if (dots.style.display === "none") {
+          dots.style.display = "inline";
+          btnText.innerHTML = "Read more";
+          moreText.style.display = "none";
+        } else {
+          dots.style.display = "none";
+          btnText.innerHTML = "Read less";
+          moreText.style.display = "inline";
+        }
+      }
+    </script>
     <!-- Back to Top Button -->
     <a href="#" id="back-to-top" aria-label="Back to Top">
       <i class="fas fa-chevron-up"></i>
